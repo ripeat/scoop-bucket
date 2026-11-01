@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ripeat/releases/releases/download/v0.1.0/ripeat_0.1.0_windows_amd64.zip",
+            "bin": [
+                "ripeat.exe"
+            ],
+            "hash": "b185b16d9452a6354d44e6ea7b08bdf9c35c39482241f58eb78264eaabc4eaa6"
+        },
+        "arm64": {
+            "url": "https://github.com/ripeat/releases/releases/download/v0.1.0/ripeat_0.1.0_windows_arm64.zip",
+            "bin": [
+                "ripeat.exe"
+            ],
+            "hash": "c2371b9c81626d5e36d4ed2ae2e1b58a3d1e3b8d72f3d41aa55b29b8638686a3"
+        }
+    },
+    "homepage": "https://github.com/ripeat/releases",
+    "description": "Set up a development machine from a list of tools, and undo it safely"
+}
