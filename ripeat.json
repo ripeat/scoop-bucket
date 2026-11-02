@@ -1,19 +1,19 @@
 {
-    "version": "0.5.1",
+    "version": "0.6.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ripeat/releases/releases/download/v0.5.1/ripeat_0.5.1_windows_amd64.zip",
+            "url": "https://github.com/ripeat/releases/releases/download/v0.6.0/ripeat_0.6.0_windows_amd64.zip",
             "bin": [
                 "ripeat.exe"
             ],
-            "hash": "3d729ccd88cbe9e24129ad3a84c4f72bf55800198c986feec1ed8bb9a84a2cef"
+            "hash": "133eefef2de6de03534798bd2bc8ddd5f9b5379b5b16df3be4edb679d7ff474e"
         },
         "arm64": {
-            "url": "https://github.com/ripeat/releases/releases/download/v0.5.1/ripeat_0.5.1_windows_arm64.zip",
+            "url": "https://github.com/ripeat/releases/releases/download/v0.6.0/ripeat_0.6.0_windows_arm64.zip",
             "bin": [
                 "ripeat.exe"
             ],
-            "hash": "70095db1f56a00b6867463ffc5c79127f2deb4a664edad5b537844aa91e3e184"
+            "hash": "c024302c165e03f50dc8b6aca438fd38d3da6a79fc4e621b2773348e0a2b4811"
         }
     },
     "homepage": "https://github.com/ripeat/releases",
