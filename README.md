@@ -12,4 +12,6 @@ scoop install ripeat
 
 Update with `scoop update ripeat`. Check with `ripeat version`.
 
+Documentation: https://ripeat.github.io
+
 Downloads, checksums and basic steps: https://github.com/ripeat/releases
